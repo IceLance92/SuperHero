@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">SuperHero</string>
+    <string name="app_name">СуперГерои</string>
+    <string name="hero1">Ночь и День</string>
+    <string name="description1">Имитирует свет и ночь, чтобы слиться с окружающей средой</string>
+    <string name="hero2">Настоящий защитник</string>
+    <string name="description2">Понимает абсолютную истину</string>
+    <string name="hero3">Андрей Великан</string>
+    <string name="description3">Герой использует реактивный ранец</string>
+    <string name="hero4">Храбрый Бенджамин</string>
+    <string name="description4">Использует силу канарейки, чтобы смело летать</string>
+    <string name="hero5">Великолепный Мару</string>
+    <string name="description5">Легко проникает сквозь стены и спасает положение.</string>
+    <string name="hero6">Динамичная Ясмин</string>
+    <string name="description6">Способность принимать любую форму и заряжаться энергией</string>
 </resources>
